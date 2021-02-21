@@ -14,19 +14,17 @@ admin
 
 # Screenshots
 
-System login:
+### System login:
 ![LOGIN IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/login.png)
 
-System Home:
+### System Home:
 ![HOME DASHBOARD IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/home_dashboard.png)
 
-System Add Pupil:
+### System Add Pupil:
 ![ADD PUPIL IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/add_pupil.png)
 
-System Results Performance Analysis:
+### System Results Performance Analysis:
 ![ADD PUPIL IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/performance.png)
 
-PostMan testing:
+### PostMan testing:
 ![PSOTMAN IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/post_man.png)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
