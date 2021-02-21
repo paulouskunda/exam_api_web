@@ -15,21 +15,18 @@ admin
 # Screenshots
 
 System login:
-![LOGIN IMAGE]
-(https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/login.png)
+![LOGIN IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/login.png)
 
 System Home:
-![HOME DASHBOARD IMAGE]
-(https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/home_dashboard.png)
+![HOME DASHBOARD IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/home_dashboard.png)
 
 System Add Pupil:
-![ADD PUPIL IMAGE]
-(https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/add_pupil.png)
+![ADD PUPIL IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/add_pupil.png)
 
 System Results Performance Analysis:
-![ADD PUPIL IMAGE]
-(https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/performance.png)
+![ADD PUPIL IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/performance.png)
 
 PostMan testing:
-![PSOTMAN IMAGE]
-(https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/post_man.png)
+![PSOTMAN IMAGE](https://github.com/paulouskunda/exam_api_web/blob/master/screenshots/post_man.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
